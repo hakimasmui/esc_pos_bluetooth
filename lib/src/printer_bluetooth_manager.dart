@@ -2,6 +2,7 @@
  * esc_pos_bluetooth
  * Created by Andrey Ushakov
  * Updated by Hakim Asmui
+ * Special thanks to Riski Febi
  * 
  * Copyright (c) 2019-2020. All rights reserved.
  * See LICENSE for distribution and usage details.
